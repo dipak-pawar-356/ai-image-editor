@@ -94,7 +94,7 @@ const PricingSection = () => {
       plan: "Free",
       price: 0,
       features: [
-        "3 projects maximum",
+        "5 projects maximum",
         "20 exports per month",
         "Basic crop & resize",
         "Color adjustments",
@@ -115,7 +115,7 @@ const PricingSection = () => {
         "AI Retouch, Upscaler and more",
       ],
       featured: true,
-      planId: "cplan_2ywZwXjYQQipWYxjCmFZCgCgsTZ",
+      planId: "cplan_30iuzqmDBL68epttNr8MkP4Sd2N",
       buttonText: "Upgrade to Pro",
     },
   ];

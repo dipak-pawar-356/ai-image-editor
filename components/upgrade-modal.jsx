@@ -19,6 +19,7 @@ export function UpgradeModal({ isOpen, onClose, restrictedTool, reason }) {
       background: "AI Background Tools",
       ai_extender: "AI Image Extender",
       ai_edit: "AI Editor",
+      projects: "More than 5 Projects",
     };
     return toolNames[toolId] || "Premium Feature";
   };

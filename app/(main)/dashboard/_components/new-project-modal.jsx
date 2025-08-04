@@ -141,7 +141,7 @@ export function NewProjectModal({ isOpen, onClose }) {
                     variant="secondary"
                     className="bg-slate-700 text-white/70"
                   >
-                    {currentProjectCount}/3 projects
+                    {currentProjectCount}/5 projects
                   </Badge>
                 )}
               </div>
